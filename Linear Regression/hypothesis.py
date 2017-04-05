@@ -1,7 +1,7 @@
 """
 Use Linear Regression learning model with mini batch gradient descent algorithm
 on data sets in "default_plus_chromatic_features_1059_tracks.txt" and
-"student-por2.csv" files.
+"student-por2.csv" files and show Cost-Iteration plot for the test data.
 """
 
 from readDataset2 import openFile
