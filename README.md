@@ -1,2 +1,3 @@
 # Machine-Learning
-Implementations of machine learning algorithms using Python.
+
+Implementations of machine learning algorithms by using Python. 
