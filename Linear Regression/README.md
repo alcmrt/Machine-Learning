@@ -1,6 +1,6 @@
 # Linear Regression
 
-Linear Regression implementation with Mini-Batch Gradient Descent Algorithm. 
+Linear Regression implementation with Mini-Batch Gradient Descent Algorithm for my machine learning class.
 
 The data sets were taken from:
 
