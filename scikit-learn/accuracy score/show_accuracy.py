@@ -1,5 +1,5 @@
 """
-Show training accuracy of decision tree and support vector classifier
+Shows training accuracy of decision tree, support vector classifier
 and neural network classifier via scikit - learn.
 """
 from sklearn.metrics import accuracy_score, f1_score, roc_auc_score, classification_report
